@@ -1,0 +1,8 @@
+{
+  "version": "1.0.12", 
+  "type": "template", 
+  "name": "Tcl.tcl", 
+  "value": [
+    "file:///Applications/Komodo%20Edit.app/Contents/SharedSupport/default-templates/Common/Tcl.tcl"
+  ]
+}

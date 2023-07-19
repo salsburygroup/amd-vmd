@@ -1,0 +1,14 @@
+#2JVX Renderer
+#July 7. 2016
+#Ryan Godwin
+#####
+
+set sel1 [atomselect top all]
+#set sel2 [atomselect top ions]
+#set sel3 [atomselect top "resid 6 9 22 26"]
+
+mol color Structure
+mol representation NewCartoon 0.300000 10.000000 4.100000 0
+mol selection all
+mol material Opaque
+mol addrep 0

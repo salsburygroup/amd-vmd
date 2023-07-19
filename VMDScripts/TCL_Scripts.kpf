@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="504da761-6871-4a46-b082-03e4a2e87251" kpf_version="4" name="TCL_Scripts.kpf">
+<template id="986aa7a8-797a-a84a-a1ad-68664688c7fd" idref="504da761-6871-4a46-b082-03e4a2e87251" name="Tcl.tcl" url="file:///Applications/Komodo%20Edit.app/Contents/SharedSupport/default-templates/Common/Tcl.tcl">
+</template>
+<preference-set idref="504da761-6871-4a46-b082-03e4a2e87251">
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.pyo;*.pyc;.svn;*%*;tmp*.html;.DS_Store</string>
+  <string id="import_include_matches"></string>
+  <boolean id="import_live">1</boolean>
+  <boolean id="import_recursive">1</boolean>
+  <string id="import_type">useFolders</string>
+  <string id="javascriptExtraPaths"></string>
+  <string id="mappedPaths"></string>
+  <string id="perlExtraPaths"></string>
+  <boolean id="perl_lintOption_includeCurrentDirForLinter">1</boolean>
+  <string id="phpExtraPaths"></string>
+  <string id="pythonExtraPaths"></string>
+</preference-set>
+</project>
